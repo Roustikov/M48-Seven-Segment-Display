@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:42F63778
+NODE:I LEVEL:0 LINE:23 "C:\cvavr\inc\mega48a.h"
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:25 "cnt -> R3,R4"
+NODE:F LEVEL:0 LINE:26 "display(int a)"
+NODE:F LEVEL:0 LINE:68 "main(void)"
